@@ -3,8 +3,9 @@
 - 🔭 I’m currently working on front-end and mobile application developments.
 - 🌱 I’m currently learning flutter and vue.js.
 - 👯 I’m looking to collaborate on opensource projects.
-- 🤔 I’m looking for help with flutter & flame game developments.
-<!-- - 💬 Ask me about ... -->
+- 🤔 I’m looking for help with game developments using flutter & flame.
 - 📫 How to reach me: h.shalitha@outlook.com
-<!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: I can't imagine life without computers.
+
+<!-- - 😄 Pronouns: ... -->
+<!-- - 💬 Ask me about ... -->
