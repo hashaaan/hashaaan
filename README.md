@@ -7,5 +7,8 @@
 - 📫 How to reach me: h.shalitha@outlook.com
 - ⚡ Fun fact: I can't imagine life without computers.
 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hashaan&show_icons=true&theme=tokyonight)
+
 <!-- - 😄 Pronouns: ... -->
 <!-- - 💬 Ask me about ... -->
