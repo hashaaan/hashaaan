@@ -7,6 +7,8 @@
 - 📫 How to reach me: h.shalitha@outlook.com
 - ⚡ Fun fact: I can't imagine life without computers.
 
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
 <a href="mailto:h.shalitha@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height=30></a>
 <a href="https://www.twitter.com/hashan_shalitha"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height=30></a>
  <a href="https://www.linkedin.com/in/hashanshalitha"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=30></a>
