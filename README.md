@@ -11,8 +11,7 @@ Currently, I'm focused on mastering JavaScript, TypeScript, React.js, Next.js, R
 <a href="https://www.linkedin.com/in/hashanshalitha" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/hashanshalitha.me" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/hashanshalitha.me" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://open.spotify.com/playlist/37i9dQZF1DWYfNJLV7OBMA" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
-<a href="https://dev.to/shalithadev" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
+<a href="https://open.spotify.com/user/31d2vtjpzvoaqasv7a6phkvvrrhq?si=c965aaa9d66c49fd&nd=1&dlsi=66d62e8eec1549b3" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 
 <!-- Status -->
 
@@ -24,6 +23,8 @@ Currently, I'm focused on mastering JavaScript, TypeScript, React.js, Next.js, R
 </a>
 
 <!-- Status -->
+
+<img src="https://komarev.com/ghpvc/?username=hashaaan&color=brightgreen" alt="watching_count" />
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hashaaan&show_icons=true&theme=tokyonight) -->
 
@@ -56,8 +57,6 @@ Currently, I'm focused on mastering JavaScript, TypeScript, React.js, Next.js, R
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-
-<img src="https://komarev.com/ghpvc/?username=hashaaan&color=brightgreen" alt="watching_count" />
 
 <!-- <img src="https://widgetbite.com/stats/hashaaan" alt="watching_count" /> -->
 
