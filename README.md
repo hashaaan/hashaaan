@@ -51,9 +51,10 @@ Currently, I'm focused on mastering JavaScript, TypeScript, React.js, Next.js, R
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-### Profile Views
+
 
 <img src="https://komarev.com/ghpvc/?username=hashaaan&color=brightgreen" alt="watching_count" />
+<img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%hashaaan&longCache=true"/>
 
 <!-- <img src="https://widgetbite.com/stats/hashaaan" alt="watching_count" /> -->
 
