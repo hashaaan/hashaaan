@@ -24,6 +24,8 @@ Currently, I'm focused on mastering JavaScript, TypeScript, React.js, Next.js, R
 
 <!-- Status -->
 
+#### Profile Views
+
 <img src="https://komarev.com/ghpvc/?username=hashaaan&color=brightgreen" alt="watching_count" />
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hashaaan&show_icons=true&theme=tokyonight) -->
