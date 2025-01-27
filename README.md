@@ -55,7 +55,7 @@ Currently, I'm focused on mastering JavaScript, TypeScript, React.js, Next.js, R
 
 <img src="https://komarev.com/ghpvc/?username=hashaaan&color=brightgreen" alt="watching_count" />
 
-<img src="https://widgetbite.com/stats/hashaaan" alt="watching_count" />
+<!-- <img src="https://widgetbite.com/stats/hashaaan" alt="watching_count" /> -->
 
 <!-- - 😄 Pronouns: ... -->
 <!-- - 💬 Ask me about ... -->
