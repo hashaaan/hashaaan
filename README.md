@@ -51,5 +51,7 @@ Currently, I'm focused on mastering JavaScript, TypeScript, React.js, Next.js, R
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
+<img src="https://komarev.com/ghpvc/?username=madushadhanushka&color=brightgreen" alt="watching_count" />
+
 <!-- - 😄 Pronouns: ... -->
 <!-- - 💬 Ask me about ... -->
