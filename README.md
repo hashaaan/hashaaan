@@ -4,9 +4,15 @@ I'm Hashan Shalitha, a front-end and mobile app developer from Sri Lanka 🇱�
 
 Currently, I'm focused on mastering JavaScript, TypeScript, React.js, Next.js, React Native and GraphQL and pushing the boundaries of SSR font-ends and mobile application developments. Let's connect, collaborate, and innovate! 🚀
 
-<a href="mailto:h.shalitha@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height=30></a>
-<a href="https://www.twitter.com/hashan_shalitha"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height=30></a>
- <a href="https://www.linkedin.com/in/hashanshalitha"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=30></a>
+<!-- <a href="mailto:h.shalitha@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height=30></a>
+<a href="https://www.twitter.com/shalithadev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height=30></a>
+<a href="https://www.linkedin.com/in/hashanshalitha"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=30></a> -->
+
+<a href="https://www.linkedin.com/in/hashanshalitha" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/hashanshalitha.me" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.facebook.com/hashanshalitha.me" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://open.spotify.com/playlist/37i9dQZF1DWYfNJLV7OBMA" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
+<a href="https://dev.to/shalithadev" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 
 <!-- Status -->
 
@@ -51,10 +57,7 @@ Currently, I'm focused on mastering JavaScript, TypeScript, React.js, Next.js, R
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-
-
 <img src="https://komarev.com/ghpvc/?username=hashaaan&color=brightgreen" alt="watching_count" />
-<img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%hashaaan&longCache=true"/>
 
 <!-- <img src="https://widgetbite.com/stats/hashaaan" alt="watching_count" /> -->
 
