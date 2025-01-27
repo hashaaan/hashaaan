@@ -8,6 +8,17 @@ Currently, I'm focused on mastering JavaScript, TypeScript, React.js, Next.js, R
 <a href="https://www.twitter.com/hashan_shalitha"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height=30></a>
  <a href="https://www.linkedin.com/in/hashanshalitha"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=30></a>
 
+<!-- Status -->
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=22878500" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=22878500&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @hashaaan" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=22878500&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
+<!-- Status -->
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hashaaan&show_icons=true&theme=tokyonight)
 
 ### 🏆 Github Profile Trophy
