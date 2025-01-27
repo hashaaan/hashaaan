@@ -53,7 +53,7 @@ Currently, I'm focused on mastering JavaScript, TypeScript, React.js, Next.js, R
 
 ### Profile Views
 
-<img src="https://komarev.com/ghpvc/?username=madushadhanushka&color=brightgreen" alt="watching_count" />
+<img src="https://komarev.com/ghpvc/?username=hashaaan&color=brightgreen" alt="watching_count" />
 
 <!-- - 😄 Pronouns: ... -->
 <!-- - 💬 Ask me about ... -->
