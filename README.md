@@ -14,6 +14,7 @@ Currently, I'm focused on mastering JavaScript, TypeScript, React.js, Next.js, R
 <a href="https://open.spotify.com/user/31d2vtjpzvoaqasv7a6phkvvrrhq?si=c965aaa9d66c49fd&nd=1&dlsi=66d62e8eec1549b3" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 
 <!-- Status -->
+### 📌 Profile Overview
 
 [![Dashboard stats of @hashaaan](https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=22878500&image_size=auto&color_scheme=dark)](https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=22878500)
 
@@ -29,7 +30,7 @@ Currently, I'm focused on mastering JavaScript, TypeScript, React.js, Next.js, R
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hashaaan&theme=nord&margin-w=15&margin-h=15&&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-### Technologies
+### ⚙️ Technologies
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
