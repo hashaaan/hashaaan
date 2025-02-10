@@ -19,15 +19,15 @@ Currently, I'm focused on mastering JavaScript, TypeScript, React.js, Next.js, R
 
 <!-- Status -->
 
-#### Profile Views
+<!-- #### Profile Views -->
 
-<img src="https://komarev.com/ghpvc/?username=hashaaan&color=brightgreen" alt="watching_count" />
+<!-- <img src="https://komarev.com/ghpvc/?username=hashaaan&color=brightgreen" alt="watching_count" /> -->
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hashaaan&show_icons=true&theme=tokyonight) -->
 
 ### 🏆 Github Profile Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hashaaan&theme=monokai&margin-w=15&margin-h=15&&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hashaaan&theme=nord&margin-w=15&margin-h=15&&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Technologies
 
@@ -57,6 +57,11 @@ Currently, I'm focused on mastering JavaScript, TypeScript, React.js, Next.js, R
 ![NPM](https://img.shields.io/badge/npm-23CB3837?logo=npm&logoColor=fff)
 
 <!-- <img src="https://widgetbite.com/stats/hashaaan" alt="watching_count" /> -->
+
+<p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/_hashaaan/count.svg" />
+</p>
 
 <!-- - 😄 Pronouns: ... -->
 <!-- - 💬 Ask me about ... -->
