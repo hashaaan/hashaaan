@@ -15,12 +15,7 @@ Currently, I'm focused on mastering JavaScript, TypeScript, React.js, Next.js, R
 
 <!-- Status -->
 
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=22878500" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=22878500&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @hashaaan" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=22878500&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a>
+[![Dashboard stats of @hashaaan](https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=22878500&image_size=auto&color_scheme=dark)](https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=22878500)
 
 <!-- Status -->
 
