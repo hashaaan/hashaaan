@@ -13,11 +13,6 @@ Currently, I'm focused on mastering JavaScript, TypeScript, React.js, Next.js, R
 <a href="https://www.facebook.com/hashanshalitha.me" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://open.spotify.com/user/31d2vtjpzvoaqasv7a6phkvvrrhq?si=c965aaa9d66c49fd&nd=1&dlsi=66d62e8eec1549b3" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 
-<p align="center">
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/_hashaaan/count.svg" />
-</p>
-
 <!-- Status -->
 ### 📌 Profile Overview
 
@@ -37,6 +32,7 @@ Currently, I'm focused on mastering JavaScript, TypeScript, React.js, Next.js, R
 
 ### ⚙️ Technologies
 
+<p align="center">
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -61,13 +57,18 @@ Currently, I'm focused on mastering JavaScript, TypeScript, React.js, Next.js, R
 ![PNPM](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-232C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
-
+</p>
 
 <!-- <img src="https://widgetbite.com/stats/hashaaan" alt="watching_count" /> -->
 
 ### 📚 Contributions
 
 [Top GitHub Users By Total Contributions in Sri Lanka](https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/sri_lanka.md)
+
+<p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/_hashaaan/count.svg" />
+</p>
 
 <!-- - 😄 Pronouns: ... -->
 <!-- - 💬 Ask me about ... -->
