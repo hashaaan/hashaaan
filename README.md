@@ -65,7 +65,7 @@ Currently, I'm focused on mastering JavaScript, TypeScript, React.js, Next.js, R
   <img src="https://profile-counter.glitch.me/_hashaaan/count.svg" />
 </p>
 
-### ⚙️ Contributions
+### 📚 Contributions
 
 [Top GitHub Users By Total Contributions in Sri Lanka](https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/sri_lanka.md)
 
