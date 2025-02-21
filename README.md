@@ -13,6 +13,11 @@ Currently, I'm focused on mastering JavaScript, TypeScript, React.js, Next.js, R
 <a href="https://www.facebook.com/hashanshalitha.me" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://open.spotify.com/user/31d2vtjpzvoaqasv7a6phkvvrrhq?si=c965aaa9d66c49fd&nd=1&dlsi=66d62e8eec1549b3" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 
+<p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/_hashaaan/count.svg" />
+</p>
+
 <!-- Status -->
 ### 📌 Profile Overview
 
@@ -59,11 +64,6 @@ Currently, I'm focused on mastering JavaScript, TypeScript, React.js, Next.js, R
 
 
 <!-- <img src="https://widgetbite.com/stats/hashaaan" alt="watching_count" /> -->
-
-<p align="center">
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/_hashaaan/count.svg" />
-</p>
 
 ### 📚 Contributions
 
