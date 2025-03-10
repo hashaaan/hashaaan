@@ -76,10 +76,9 @@
 ---
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=hashaaan"  />
+  <!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=hashaaan"  /> -->
+  <img src="https://komarev.com/ghpvc/?username=hashaaan&color=2975D6" alt="watching_count" />
 </div>
-
-<img src="https://komarev.com/ghpvc/?username=hashaaan&color=2975D6" alt="watching_count" />
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:41B0F1,100:2975D6&height=120&section=footer" />
