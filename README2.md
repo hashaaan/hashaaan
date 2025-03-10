@@ -25,6 +25,7 @@
 - 🎓 Graduated from **Coventry University (First Class Division)**
 
 <br />
+<br />
 
 ## 💫 Tech Stack
 
@@ -41,7 +42,8 @@
   <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white">
 </p>
 
----
+<br/>
+<br/>
 
 ## 🔥 GitHub Stats & Animations
 
@@ -56,14 +58,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashaaan&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
----
+<br/>
+<br/>
 
 ## 📫 Get in Touch
 
 <p align="center">
-  🔗 <strong>Portfolio:</strong> <a href="https://hashan.dev">hashan.dev</a> *(Coming Soon!)*<br>
-  💼 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/hashan-shalitha">linkedin.com/in/hashan-shalitha</a><br>
-  🐦 <strong>Twitter/X:</strong> <a href="https://twitter.com/hashaaan_dev">@hashaaan_dev</a>
+  🔗 <strong>Portfolio:</strong> <a href="https://hashan.is-a.dev">hashan.is-a.dev</a><br>
+  💼 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/hashanshalitha">linkedin.com/in/hashanshalitha</a><br>
+  🐦 <strong>Twitter/X:</strong> <a href="https://twitter.com/shalithadev">@shalithadev</a>
 </p>
 
 <p align="center">Let's build something amazing together! 🚀</p>
