@@ -70,3 +70,11 @@
 </p>
 
 <p align="center">Let's build something amazing together! 🚀</p>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=hashaaan"  />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:41B0F1,100:2975D6&height=120&section=footer" />
+</div>
