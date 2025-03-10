@@ -71,7 +71,6 @@
 -->
 
 <br/>
-<br/>
 
 ## 🔥 GitHub Stats
 
