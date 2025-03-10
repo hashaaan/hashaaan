@@ -80,7 +80,7 @@
 ## 📚 Contributions
 
 <p align="center">
-  🐦 <strong>82 on</strong> <a target="_blank" href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/sri_lanka.md">Top GitHub Users By Total Contributions in Sri Lanka</a>
+  💪 <strong>82 on</strong> <a target="_blank" href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/sri_lanka.md">Top GitHub Users By Total Contributions in Sri Lanka</a>
 </p>
 
 ---
