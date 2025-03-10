@@ -2,7 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:41B0F1,100:2975D6&height=200&section=header&text=Hashan%20Shalitha&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=T3-Stack%20Developer&descSize=25&descAlignY=55&animation=fadeIn" />
 </div>
 
-<h1 align="center">Hi there! 👋 I'm Hashan Shalitha</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=41B0F1&center=true&vCenter=true&random=false&width=435&lines=Web+Application+Expert;Open+Source+Contributor;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
+</div>
 
 <p align="center">
   🚀 <strong>Frontend Software Engineer | Indie Game Developer | Entrepreneur</strong><br>
