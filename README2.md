@@ -6,6 +6,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=41B0F1&center=true&vCenter=true&random=false&width=435&lines=Frontend+Expert;TypeScript+Enthusiast;Open+Source+Contributor;Problem+Solver;Continuous+Learner;Indie+Game+Developer;Entrepreneur" alt="Typing SVG" />
 </div>
 
+<br/>
+
 <p align="center">
   🚀 <strong>Frontend Software Engineer | Indie Game Developer | Entrepreneur</strong><br>
   🔹 Founder of <a href="https://devzer.com">Devzer Studio</a> | Creator of <a href="https://onechariot.lk">OneChariot.lk</a><br>
@@ -15,16 +17,18 @@
 ---
 
 ## 💻 About Me
+<img align="right" alt="Coding" width="250" src="./developer.svg"/>
+
 - 🎨 Frontend Software Engineer at **Rightmo Web Solutions**
 - 💡 Experienced in **React.js, Next.js, TypeScript, Tailwind CSS, and more**
-- 🎮 Building indie games and web applications at **Devzer Studio**
+- 🎮 Building indie games and web applications at **Devzer Studios**
 - 🌍 Founder of **OneChariot.lk**, a classified ads platform for Sri Lanka
 - 📚 Teaching JavaScript and React to aspiring developers
 - 🎓 Graduated from **Coventry University (First Class Division)**
 
 ---
 
-## ⚡ Tech Stack
+## 💫 Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
