@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF416C,100:FF4B2B&height=200&section=header&text=Hashan%20Shalitha&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=T3-Stack%20Developer&descSize=25&descAlignY=55&animation=fadeIn" />
+</div>
+
 <h1 align="center">Hi there! 👋 I'm Hashan Shalitha</h1>
 
 <p align="center">
