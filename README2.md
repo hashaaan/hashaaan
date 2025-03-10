@@ -47,26 +47,24 @@
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=hashaaan&theme=nord&margin-w=15&margin-h=15&&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-## 🔥 GitHub Stats & 🏆 GitHub Trophies
+## 🔥 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hashaaan&theme=nord&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hashaaan&theme=nord&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hashaaan&theme=nord&hide_border=true&include_all_commits=true&count_private=true" alt="Hashan's GitHub Stats" />
+  <br/><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=hashaaan&theme=nord&hide_border=true" alt="Hashan's GitHub Streak" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashaaan&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Hashan's Top Languages" />
+</div>
 
 <br/>
 
+## 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hashaaan&show_icons=true&theme=radical" alt="Hashan's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashaaan&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=hashaaan&theme=nord&no-frame=true&no-bg=false&margin-w=4" alt="Hashan's GitHub Trophies" />
 </p>
 
-<br/>
 <br/>
 
 ## 📫 Get in Touch
