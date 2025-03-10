@@ -14,7 +14,7 @@
   🔹 Passionate about web development, game development, and crafting digital experiences
 </p> --->
 
-## 💻 About Me
+## 💫 About Me
 <img align="right" alt="Coding" width="250" src="./developer.svg"/>
 
 - 🎨 Frontend Software Engineer at **Rightmo Web Solutions**
@@ -27,7 +27,7 @@
 <br />
 <br />
 
-## 💫 Tech Stack
+## 💻 Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
@@ -45,8 +45,6 @@
 <br/>
 <br/>
 
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=hashaaan&theme=nord&margin-w=15&margin-h=15&&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy) -->
-
 ## 🔥 GitHub Stats
 
 <div align="center">
@@ -62,7 +60,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hashaaan&theme=nord&no-frame=true&no-bg=false&margin-w=4" alt="Hashan's GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hashaaan&theme=nord&no-frame=true&no-bg=false&margin-w=4&row=1" alt="Hashan's GitHub Trophies" />
 </p>
 
 <br/>
@@ -82,7 +80,6 @@
 ---
 
 <div align="center">
-  <!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=hashaaan"  /> -->
   <img src="https://komarev.com/ghpvc/?username=hashaaan&color=2975D6" alt="watching_count" />
 </div>
 
