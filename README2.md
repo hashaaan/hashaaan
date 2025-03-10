@@ -45,13 +45,16 @@
 <br/>
 <br/>
 
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=hashaaan&theme=nord&margin-w=15&margin-h=15&&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy) -->
+
 ## 🔥 GitHub Stats & Animations
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hashaaan&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hashaaan&theme=nord&hide_border=true" alt="GitHub Streak"/>
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hashaaan&theme=radical&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
+  ### 🏆 Github Profile Trophy
+  <img src="https://github-profile-trophy.vercel.app/?username=hashaaan&theme=nord&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hashaaan&show_icons=true&theme=radical" alt="Hashan's GitHub Stats"/>
