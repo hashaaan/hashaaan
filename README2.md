@@ -8,11 +8,11 @@
 
 <br/>
 
-<p align="center">
+<!--- <p align="center">
   🚀 <strong>Frontend Software Engineer | Indie Game Developer | Entrepreneur</strong><br>
   🔹 Founder of <a href="https://devzer.com">Devzer Studio</a> | Creator of <a href="https://onechariot.lk">OneChariot.lk</a><br>
   🔹 Passionate about web development, game development, and crafting digital experiences
-</p>
+</p> --->
 
 ---
 
