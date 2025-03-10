@@ -14,8 +14,6 @@
   🔹 Passionate about web development, game development, and crafting digital experiences
 </p> --->
 
----
-
 ## 💻 About Me
 <img align="right" alt="Coding" width="250" src="./developer.svg"/>
 
@@ -26,7 +24,7 @@
 - 📚 Teaching JavaScript and React to aspiring developers
 - 🎓 Graduated from **Coventry University (First Class Division)**
 
----
+<br />
 
 ## 💫 Tech Stack
 
