@@ -79,11 +79,11 @@
 ## 🔥 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hashaaan&theme=nord&hide_border=true&include_all_commits=true&count_private=true" alt="Hashan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shalithadev&theme=nord&hide_border=true&include_all_commits=true&count_private=true" alt="Hashan's GitHub Stats" />
   <br/><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=hashaaan&theme=nord&hide_border=true" alt="Hashan's GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=shalithadev&theme=nord&hide_border=true" alt="Hashan's GitHub Streak" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashaaan&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Hashan's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalithadev&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Hashan's Top Languages" />
 </div>
 
 <br/>
@@ -91,7 +91,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hashaaan&theme=nord&no-frame=true&no-bg=false&margin-w=4&row=1" alt="Hashan's GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shalithadev&theme=nord&no-frame=true&no-bg=false&margin-w=4&row=1" alt="Hashan's GitHub Trophies" />
 </p>
 
 <br/>
@@ -108,7 +108,7 @@
 
 <p align="center">
   🔗 <strong>Portfolio:</strong> <a href="https://hashan.is-a.dev">hashan.is-a.dev</a><br>
-  💼 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/hashanshalitha">linkedin.com/in/hashanshalitha</a><br>
+  💼 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/shalithadev">linkedin.com/in/shalithadev</a><br>
   🐦 <strong>Twitter/X:</strong> <a href="https://twitter.com/shalithadev">@shalithadev</a>
 </p>
 
@@ -119,7 +119,7 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hashaaan&color=2975D6" alt="watching_count" />
+  <img src="https://komarev.com/ghpvc/?username=shalithadev&color=2975D6" alt="watching_count" />
 </div>
 
 <div align="center">
